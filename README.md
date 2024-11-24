@@ -20,11 +20,7 @@ Crie uma classe chamada Main que possui o método main() para testar as demais c
 ### 📋 Pré-requisitos
 
 ![imagem_2024-11-24_114452973](https://github.com/user-attachments/assets/848903d0-6517-4fed-872d-10426451e6b7)
-
-
-
-
-
+![imagem_2024-11-24_114558123](https://github.com/user-attachments/assets/7f1cf637-8538-4e9c-991e-8b4346cb019c)
 
 ### 🔧 Instalação
 
